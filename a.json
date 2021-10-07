@@ -1,1 +1,6 @@
-{"name":"indus_pool","ticker":"indus","description":"save the tree ! Stake with us and earn rewards making world green again!","homepage":"www.cardano.org"}
+{
+	"name": "indus_pool",
+	"ticker": "INDUS",
+	"description": "INDUS Testnet Pool",
+	"homepage": "https://git.io/JwQEY"
+}
